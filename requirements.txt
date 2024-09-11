@@ -1,0 +1,11 @@
+google-api-core==2.19.2
+google-cloud-core==2.4.1
+google-cloud==0.34.0
+google-cloud-audit-log==0.3.0
+google-cloud-logging==3.11.2
+google-cloud-service-usage==1.10.5
+google-cloud-resource-manager==1.12.5
+google-auth==2.34.0
+azure-identity==1.7.0
+boto3==1.35.10
+setuptools==74.0.0
