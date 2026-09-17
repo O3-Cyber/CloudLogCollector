@@ -6,6 +6,6 @@ google-cloud-logging==3.11.2
 google-cloud-service-usage==1.10.5
 google-cloud-resource-manager==1.12.5
 google-auth==2.34.0
-azure-identity==1.7.0
+azure-identity==1.16.1
 boto3==1.35.10
-setuptools==74.0.0
+setuptools==78.1.1
